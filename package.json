@@ -1,0 +1,24 @@
+{
+  "name": "wordcamp-2018-css",
+  "version": "1.0.0",
+  "description": "Repositório para gerenciamento do CSS externo utilizado no site [WordCamp Belo Horizonte 2018](https://2018.belohorizonte.wordcamp.org/). Estilo baseado no tema do [WordCamp Europe 2018](https://2018.europe.wordcamp.org/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WordPressBeloHorizonte/wordcamp-2018-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WordPressBeloHorizonte/wordcamp-2018-css/issues"
+  },
+  "homepage": "https://github.com/WordPressBeloHorizonte/wordcamp-2018-css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
